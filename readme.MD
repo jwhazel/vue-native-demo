@@ -1,6 +1,8 @@
 # Demo Vue Native App
 An simple example of using [Vue Native](https://vue-native.io/) to quickly build a cross platform mobile app. Uses native elements + webview to connect to an api and render a simple news reader.
 
+This app is the News section of [Spring Hill News](https://springhillnews.net/)
+
 ![](preview.gif)
 
 
